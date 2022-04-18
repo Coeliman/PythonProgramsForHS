@@ -51,4 +51,4 @@ def vinyard():
     os.system("clear")
 def milbase():
     os.system("clear")
-#locked locations
+#locked locationss
